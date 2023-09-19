@@ -1,5 +1,4 @@
-Turning caffeine into code since 2019
-
+Why do Java programmers have to wear glasses? Because they don’t C#
 
 
 <!---
